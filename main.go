@@ -1,8 +1,8 @@
 package main
 
 import (
-	calc "ceceweek2/src"
 	"fmt"
+	calc "github.com/vivcis/src"
 )
 
 func main() {
